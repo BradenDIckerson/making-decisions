@@ -97,9 +97,9 @@
   Create a for-loop that runs 10 times, and on each iteration logs the word 'hello'.
 */
 
-for (let i = 0; i < 10; i++){
- console.log ("hello")
-}
+// for (let i = 0; i < 10; i++){
+//  console.log ("hello")
+// }
 
 
 ////////// PROBLEM 6 //////////
@@ -108,7 +108,18 @@ for (let i = 0; i < 10; i++){
   Create a for-loop that runs 10 times, logging the numbers 1 through 10. Ex, on the first iteration it would log 1, on the second iteration it would log 2.
 */
 
-//CODE HERE
+for (let i = 0; i < 10; i++){
+  console.log ("1")
+  console.log ("2")
+  console.log ("3")
+  console.log ("4")
+  console.log ("5")
+  console.log ("6")
+  console.log ("7")
+  console.log ("8")
+  console.log ("9")
+  console.log ("10")
+}
 
 
 ////////// PROBLEM 7 //////////
